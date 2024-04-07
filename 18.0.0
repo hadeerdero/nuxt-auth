@@ -1,0 +1,16 @@
+
+> node@18.20.1 preinstall C:\Users\RedFoxes 2\Desktop\New folder (2)\nuxt-auth\node_modules\node
+> node installArchSpecificPackage
+
++ node-win-x64@18.20.1
+added 1 package in 1.844s
+found 0 vulnerabilities
+
++ node@18.20.1
+added 2 packages from 1 contributor and audited 844 packages in 11.709s
+
+145 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
